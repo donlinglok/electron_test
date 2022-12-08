@@ -1,3 +1,6 @@
 [submodule "carGame"]
 	path = carGame
 	url = https://github.com/donlinglok/carGame.git
+[submodule "kof"]
+	path = kof
+	url = https://github.com/donlinglok/kof
