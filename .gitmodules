@@ -7,3 +7,9 @@
 [submodule "jumpjump"]
 	path = jumpjump
 	url = https://github.com/donlinglok/jumpjump.git
+[submodule "elevator"]
+	path = elevator
+	url = https://github.com/donlinglok/elevator.git
+[submodule "jump"]
+	path = jump
+	url = https://github.com/donlinglok/jump.git
