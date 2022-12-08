@@ -4,3 +4,6 @@
 [submodule "kof"]
 	path = kof
 	url = https://github.com/donlinglok/kof
+[submodule "jumpjump"]
+	path = jumpjump
+	url = https://github.com/donlinglok/jumpjump.git
